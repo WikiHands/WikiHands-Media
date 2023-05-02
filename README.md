@@ -1,0 +1,1 @@
+Copyright: <https://github.com/WikiHands/WikiHands.github.io/tree/master/_data/Media-Copyright.json>
